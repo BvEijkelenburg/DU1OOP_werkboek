@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="TwitterApp" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="les09_10.opdrachten.twitter.TwitterApp" />
-    <module name="V1OOP_werkboek" />
+    <module name="DU1OOP_werkboek" />
     <option name="VM_PARAMETERS" value="--module-path lib --add-modules javafx.fxml,javafx.controls" />
     <method v="2">
       <option name="Make" enabled="true" />
